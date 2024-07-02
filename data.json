@@ -10,7 +10,7 @@
     "firstPrizeForDisplay": "1등(10억원) 잔여 수량",
     "remainFirst": "6 매",
     "secondPrizeForDisplay": "2등(1억원) 잔여 수량",
-    "remainSecond": "11 매",
+    "remainSecond": "10 매",
     "thirdPrizeForDisplay": "3등(1천만원) 잔여 수량",
     "remainThird": "102 매",
     "forthPrizeForDisplay": "4등(2만원) 잔여 수량",
@@ -19,7 +19,7 @@
     "estimatedRemainFifth": "58,618 매(추정치)",
     "sixthPrizeForDisplay": "6등(2천원) 잔여 수량",
     "estimatedRemainSixth": "2,333,333 매(추정치)",
-    "expectedProfitPerEach": "장당 1,605원(세금 제외)"
+    "expectedProfitPerEach": "장당 1,593원(세금 제외)"
   },
   {
     "speettoType": "Speetto1000",
@@ -30,7 +30,7 @@
     "remainTotalForDisplay": "전체 잔여 수량",
     "estimatedRemainIssues": "26,100,000 매(추정치)",
     "firstPrizeForDisplay": "1등(5억원) 잔여 수량",
-    "remainFirst": "8 매",
+    "remainFirst": "7 매",
     "secondPrizeForDisplay": "2등(2천만원) 잔여 수량",
     "remainSecond": "45 매",
     "thirdPrizeForDisplay": "3등(1만원) 잔여 수량",
@@ -39,7 +39,7 @@
     "estimatedRemainForth": "652,500 매(추정치)",
     "fifthPrizeForDisplay": "5등(1천원) 잔여 수량",
     "estimatedRemainFifth": "7,909,090 매(추정치)",
-    "expectedProfitPerEach": "장당 708원(세금 제외)"
+    "expectedProfitPerEach": "장당 689원(세금 제외)"
   },
   {
     "speettoType": "Speetto500",
